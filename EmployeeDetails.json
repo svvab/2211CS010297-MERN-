@@ -1,0 +1,51 @@
+[
+ {
+  "Name": "Dr.Meeravali Shaik",
+  "Designation": "HOD",
+  "qualification": "B.Tech(CSE), M.Tech(CSE),Ph.D(CSE)",
+  "Experience": "13 YEARS",
+  "EmailId": "MeervaliShaik@mallareddyuniversity.ac.in"
+ },
+ {
+  "Name": "Dr.Arun Singh",
+  "Designation": "Asct.Prof",
+  "qualification": "B.E(CSE),M.Tech(CSE),Ph.D(CSE)",
+  "Experience": "15 YEARS",
+  "EmailId": "arunsingh@mallareddyuniversity.ac.in"
+ },
+ {
+  "Name": "Dr.M.Narayana",
+  "Designation": "Professor",
+  "qualification": "B.E(CSE),M.E(CSE),Ph.D(CSE)",
+  "Experience": "17 YEARS",
+  "EmailId": "mnarayana@mallareddyuniversity.ac.in"
+ },
+ {
+  "Name": "Dr.P.Rambabu",
+  "Designation": "Professor",
+  "qualification": "B.Tech(Civil),M.Tech(remort sensing),Ph.D(Remote Sensing)",
+  "Experience": "20 YEARS",
+  "EmailId": "ramababu@mallareddyuniversity.ac.in"
+ },
+ {
+  "Name": "Dr.M.Ravikanth",
+  "Designation": "Asct.Prof",
+  "qualification": "B.Tech(CSE), M.Tech(CSE),Ph.D(CSE)",
+  "Experience": "17 YEARS",
+  "EmailId": "ravikanth@mallareddyuniversity.ac.in"
+ },
+ {
+  "Name": "Dr.T.Phanindra",
+  "Designation": "Asct.Prof",
+  "qualification": "B.Tech(EEE), M.Tech(EEE),Ph.D(EEE)",
+  "Experience": "12 YEARS",
+  "EmailId": "phanindra@mallareddyuniversity.ac.in"
+ },
+ {
+  "Name": "Dr.B.Jogeshwara Rao",
+  "Designation": "Asct.Prof",
+  "qualification": "MSc(Computers),M.Tech(CSE),Ph.D(CSE)",
+  "Experience": "13 YEARS",
+  "EmailId": "jogeshwararao@mallareddyuniversity.ac.in"
+ }
+]
